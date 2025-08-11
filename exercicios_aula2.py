@@ -40,4 +40,5 @@ print(f' O produto {nome_produto} custa R$ {preço_produto:.2f}. ')
 '''
 nome_cidade= input('diga a cidade?')
 sigla_pais= input( 'diga a sigla?')
+
 print(f'Eu gostaria de visitar {nome_cidade} , {sigla_pais}.')
